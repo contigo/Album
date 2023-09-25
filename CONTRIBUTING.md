@@ -8,3 +8,6 @@ The following is a set of guidelines for contributing to Album. These are mostly
 3. Just modify the code you are sure need to be optimized, not all the different code from your ideas.
 4. Before launching a pull request, you should test your commit code adequately.
 5. Please commit new code to the [dev](https://github.com/yanzhenjie/Album/tree/dev) branch instead of the master branch.
+6. make!
+   
+   
